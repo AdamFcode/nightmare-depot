@@ -5,6 +5,15 @@
     box-sizing: border-box;
 }
 
+/*General Styles */
+body {
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+/* Generic Project Styles */
+color: black
+}
+
 /* Header Styles */
 header {
     background-color:aquamarine
@@ -13,6 +22,8 @@ header {
 /* Main Styles */
 main {
     background-color: brown;
+    /* Fill surplus space with Main Content to push footer down */
+    flex: 1 0 auto;
 }
 
 /*Footer Styles */
