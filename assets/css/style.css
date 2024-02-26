@@ -1,11 +1,12 @@
 /* Imported Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
+
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing:border-box
 }
 
 /*General Styles */
@@ -14,12 +15,13 @@ min-height: 100vh;
 display: flex;
 flex-direction: column;
 /* Generic Project Styles */
-color: black
+color: black;
 }
 
 /* Header Styles */
 header {
-    background-color:aquamarine
+    background-color:aquamarine;
+    font-family: "Special Elite" , serif;
 }
 
 /* Main Styles */
