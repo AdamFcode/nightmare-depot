@@ -33,14 +33,10 @@ header a {
     color: white
 }
 
-
-
 .nav-bar {
     color: red;
     border-bottom: 1px solid;
 }
-
-
 
 #menu {
     font-size: 110%;
@@ -51,6 +47,16 @@ header a {
 #menu > li {
     margin-bottom: 1em;
 }  
+
+/*Dropdown toggle for navbar */
+nav {
+    position: absolute;
+    background-color: black;
+    left: 0;
+    width: 100%;
+    padding: 0 1rem;
+    display: none;
+}
 
 /* Main Styles */
 main {
