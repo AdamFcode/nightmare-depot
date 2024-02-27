@@ -20,8 +20,12 @@ color: black;
 
 /* Header Styles */
 header {
-    background-color:aquamarine;
+    background-color: black;
     font-family: "Special Elite" , serif;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
 }
 
 /* Main Styles */
