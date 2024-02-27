@@ -81,6 +81,7 @@ main {
     background-color: brown;
     /* Fill surplus space with Main Content to push footer down */
     flex: 1 0 auto;
+    margin-top: 65px;
 }
 
 /*Footer Styles */
