@@ -33,6 +33,16 @@ header a {
     color: white
 }
 
+#nav-bar {
+    color: red;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
 /* Main Styles */
 main {
     background-color: brown;
