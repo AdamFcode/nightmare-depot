@@ -33,15 +33,24 @@ header a {
     color: white
 }
 
-#nav-bar {
+
+
+.nav-bar {
     color: red;
+    border-bottom: 1px solid;
 }
+
+
 
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
 }
+
+#menu > li {
+    margin-bottom: 1em;
+}  
 
 /* Main Styles */
 main {
