@@ -6,22 +6,27 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing:border-box
+    box-sizing: border-box;
+    text-decoration: none;
 }
 
 /*General Styles */
 body {
-min-height: 100vh;
-display: flex;
-flex-direction: column;
-/* Generic Project Styles */
-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic Project Styles */
+    color: black;
+}
+
+a {
+    text-decoration: none;
 }
 
 /* Header Styles */
 header {
     background-color: black;
-    font-family: "Special Elite" , serif;
+    font-family: "Special Elite", serif;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -29,6 +34,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    text-decoration: none;
 }
 
 header a {
@@ -36,20 +42,23 @@ header a {
     color: white
 }
 
+
 .nav-bar {
     color: red;
-    border-bottom: 1px solid;
 }
+
 
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
+    text-decoration: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
-}  
+    text-decoration: none;
+}
 
 /*Dropdown toggle for navbar */
 nav {
@@ -68,7 +77,11 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    color: red
+    color: red;
+}
+
+ul menu {
+    text-decoration: none;
 }
 
 /* Nav Toggle */
@@ -91,6 +104,7 @@ footer {
 
 /*Media Query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -103,8 +117,9 @@ footer {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
+        text-decoration: none;
     }
 
     .nav-toggle-label {
@@ -122,5 +137,14 @@ footer {
         /* Push main content down below header for larger screens */
         margin-top: 75px;
     }
-    
+}
+
+/* Large Devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+
+
+    #menu a:hover {
+        border-bottom: 1px solid red;
+    }
+
 }
