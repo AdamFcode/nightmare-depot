@@ -121,6 +121,32 @@ main {
     padding-left: 5px;
 }
 
+/*Join If You... Section */
+#if-you {
+    width: 90%;
+    margin: 20px auto;
+}
+
+hr {
+    border-top: 1px solid red;
+    margin: 5px 0;
+}
+
+#if-you h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#physical>div, #mental>div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#if-you p {
+    padding: 0 20px;
+}
+
 /*Footer Styles */
 #social-networks {
     text-align: center;
