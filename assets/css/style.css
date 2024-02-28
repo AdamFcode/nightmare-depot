@@ -150,6 +150,22 @@ hr {
 /* Training Image on Home Page */
 #train-img {
 width: 100%;
+height: 100%;
+}
+
+.container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+}
+
+.physical-text {
+    display: flex;
+    flex-direction: column;
+    column-gap: 10rem;
+    row-gap: 1rem;
+    text-align: center;
 }
 
 /*Footer Styles */
