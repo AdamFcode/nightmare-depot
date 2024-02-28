@@ -19,6 +19,12 @@ body {
     color: black;
 }
 
+h1, h2, h3, h4 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: red;
+}
+
 a {
     text-decoration: none;
 }
@@ -101,6 +107,18 @@ main {
     height: 600px;
     width: 100%;
     background: url(../images/nightmare-hero.jpeg) no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: rgb(230, 225, 226, .8);
+    font-size: 130%;
+    position: absolute;
+    bottom: 50px;
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
 }
 
 /*Footer Styles */
@@ -153,6 +171,13 @@ main {
     main {
         /* Push main content down below header for larger screens */
         margin-top: 75px;
+    }
+
+    /* Hero */
+    #cover-text {
+        width: 300px;
+        left: 50px;
+        right: 10px;
     }
 }
 
