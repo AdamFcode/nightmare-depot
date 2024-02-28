@@ -153,14 +153,29 @@ width: 100%;
 height: 100%;
 }
 
+/* Star image on home Page */
+#star-img {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
 .container {
     display: grid;
     align-items: center;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 5px;
 }
 
 .physical-text {
+    display: flex;
+    flex-direction: column;
+    column-gap: 10rem;
+    row-gap: 1rem;
+    text-align: center;
+}
+
+.mental-text {
     display: flex;
     flex-direction: column;
     column-gap: 10rem;
