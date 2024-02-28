@@ -91,10 +91,16 @@ ul menu {
 
 /* Main Styles */
 main {
-    background-color: brown;
     /* Fill surplus space with Main Content to push footer down */
     flex: 1 0 auto;
     margin-top: 65px;
+}
+
+/* Hero Styles */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../images/nightmare-hero.jpeg) no-repeat center center/cover;
 }
 
 /*Footer Styles */
