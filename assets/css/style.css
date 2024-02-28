@@ -98,8 +98,19 @@ main {
 }
 
 /*Footer Styles */
-footer {
-    background-color: darkorange;
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: black;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: red
 }
 
 /*Media Query: tablets and larger (768px and up) */
