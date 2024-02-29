@@ -145,6 +145,11 @@ hr {
     color: white;
 }
 
+/* Signup Section */
+#signup {
+    color: white;
+}
+
 /*Footer Styles */
 #social-networks {
     text-align: center;
@@ -160,6 +165,7 @@ hr {
     padding: 5%;
     color: red
 }
+
 
 /*Media Query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
