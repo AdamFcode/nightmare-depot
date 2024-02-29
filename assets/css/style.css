@@ -161,6 +161,7 @@ hr {
     align-items: center; 
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 5px;
+    margin-bottom: 100px;
 }
 
 img {
