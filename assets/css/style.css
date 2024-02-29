@@ -148,6 +148,11 @@ hr {
 /* Signup Section */
 #signup {
     color: white;
+    padding:30px;
+    max-width: 400px;
+    margin-top: 100px;
+    margin-left: 50px;
+    text-align: center;
 }
 
 /*Footer Styles */
@@ -209,6 +214,11 @@ hr {
         left: 50px;
         right: 10px;
     }
+
+    /* Push sign-up form to right on bigger screens */
+    #signup{
+        margin-left: 200px;
+    }
 }
 
 /* Large Devices (laptops and desktops, 992px and up) */
@@ -217,6 +227,11 @@ hr {
 
     #menu a:hover {
         border-bottom: 1px solid red;
+    }
+
+    /* Push sign-up form to right on bigger screens */
+    #signup{
+        margin-left: 300px;
     }
 
 }
