@@ -177,7 +177,7 @@ div.gallery {
     padding: 30px;
     max-width: 400px;
     margin-top: 100px;
-    margin-left: 50px;
+    margin-left: 100px;
     text-align: center;
 }
 
@@ -185,7 +185,7 @@ div.gallery {
 .container {
     display: grid;
     align-items: center;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
     column-gap: 5px;
     margin-bottom: 100px;
 }
