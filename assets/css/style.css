@@ -150,6 +150,7 @@ hr {
 
 /*Gallery Section */
 div.gallery {
+    display: flex;
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
