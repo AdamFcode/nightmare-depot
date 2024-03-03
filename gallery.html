@@ -21,6 +21,14 @@
 
     <!--Stylesheet-->
     <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- Preload the LCP images with a high fetchpriority so it starts loading with the stylesheet. -->
+<link rel="preload" fetchpriority="high" as="image" href="assets/images/gallery1.webp" type="image/webp">
+<link rel="preload" fetchpriority="high" as="image" href="assets/images/gallery2.webp" type="image/webp">
+<link rel="preload" fetchpriority="high" as="image" href="assets/images/gallery3.webp" type="image/webp">
+<link rel="preload" fetchpriority="high" as="image" href="assets/images/gallery4.webp" type="image/webp">
+<link rel="preload" fetchpriority="high" as="image" href="assets/images/gallery5.webp" type="image/webp">
+<link rel="preload" fetchpriority="high" as="image" href="assets/images/gallery6.webp" type="image/webp">
 </head>
 
 <body>
@@ -47,8 +55,8 @@
             <div class="gallery">
                 <a target="_blank" href="assets/images/gallery1.webp">
                     <img src="assets/images/gallery1.webp"
-                        alt="Photo of training faciliities with a woman standing in a wrestling ring." width="600"
-                        height="400">
+                        alt="Photo of training faciliities with a woman standing in a wrestling ring." width="356"
+                        height="200">
                 </a>
                 <div class="desc">Our state of the art facilities will provide you with everything you need to learn the
                     craft of professional wrestling. We combine diet and weight-lifting programs with in-ring training
