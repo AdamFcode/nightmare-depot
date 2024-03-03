@@ -155,22 +155,22 @@ div.gallery {
     border: 1px solid #ccc;
     float: left;
     width: 180px;
-  }
-  
-  div.gallery:hover {
+}
+
+div.gallery:hover {
     border: 1px solid #777;
-  }
-  
-  div.gallery img {
+}
+
+div.gallery img {
     width: 100%;
     height: auto;
-  }
-  
-  div.desc {
+}
+
+div.desc {
     padding: 15px;
     text-align: center;
     color: white;
-  }
+}
 
 /* Signup Section */
 #signup {
@@ -178,8 +178,30 @@ div.gallery {
     padding: 30px;
     max-width: 400px;
     margin-top: 100px;
-    margin-left: 100px;
+    margin-left: auto;
     text-align: center;
+}
+
+label.input {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+div.radio-buttons {
+    display: block;
+    padding: 5px;
+}
+
+input#in-ring,
+input#broadcast,
+input#backstage,
+input#any-role {
+    margin-bottom: 10px;
+}
+
+.signup-h3 {
+    Margin-top: 20px;
 }
 
 /* Testimonial Section */
