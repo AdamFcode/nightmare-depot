@@ -103,7 +103,7 @@ ul menu {
 main {
     /* Fill surplus space with Main Content to push footer down */
     flex: 1 0 auto;
-    margin-top: 15px;
+    margin-top: 65px;
     background-color: black;
 }
 
@@ -239,7 +239,7 @@ img {
 }
 
 .text h1{
-    font-size: 20px;
+    font-size: 10px;
     font-family: "Prompt", sans-serif;
     color:white;
 }
@@ -324,6 +324,13 @@ img {
     /* Gallery */
     div.gallery img {
         object-fit: cover;
+    }
+
+    /* Testimonials */
+    .text h1{
+        font-size: 20px;
+        font-family: "Prompt", sans-serif;
+        color:white;
     }
 }
 
