@@ -162,7 +162,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    object-fit: cover;
+   object-fit: scale-down;
 }
 
 div.desc {
@@ -284,6 +284,11 @@ img {
     /* Push sign-up form to right on bigger screens */
     #signup {
         margin-left: 200px;
+    }
+
+    /* Gallery */
+    div.gallery img {
+        object-fit: cover;
     }
 }
 
