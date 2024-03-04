@@ -1,6 +1,6 @@
 /* Imported Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 
@@ -127,8 +127,9 @@ main {
 }
 
 /* Intro section */
-#intro h1, h4,{
-color:red
+#intro h1, h4 {
+   color: red;
+   font-family: "Special Elite", serif;
 }
 
 #intro p {
@@ -150,9 +151,15 @@ hr {
 }
 
 #if-you h2 {
+    font-family: "Special Elite", serif;;
     margin-bottom: 20px;
     text-align: center;
     font-size: 280%;
+}
+
+#if-you h3 {
+    font-family: "Special Elite", serif;
+    text-align: center;
 }
 
 #if-you p {
@@ -181,6 +188,7 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
+    font-family: "Prompt", sans-serif;
     color: white;
 }
 
