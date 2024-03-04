@@ -108,9 +108,9 @@ main {
 
 /* Hero Styles */
 #hero {
-    height: 600px;
+    height:600px;
     width: 100%;
-    background: url(../images/nightmare-hero.jpeg) no-repeat center center/cover;
+    background: url(../images/nightmare-hero.webp) no-repeat center;
     position: relative;
 }
 
@@ -274,7 +274,14 @@ img {
         margin-top: 150px;
     }
 
-    /* Hero */
+    /* Hero Styles */
+#hero {
+    height:600px;
+    width:100%;
+    background: url(../images/nightmare-hero.webp) no-repeat center center/cover;
+    position: relative;
+}
+
     #cover-text {
         width: 300px;
         left: 50px;
