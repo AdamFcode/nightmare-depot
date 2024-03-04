@@ -125,6 +125,17 @@ main {
     padding-left: 5px;
 }
 
+/* Intro section */
+#intro h1, h4,{
+color:red
+}
+
+#intro p {
+    color:white;
+    font-size: 22px;
+    margin-left: 20px;
+}
+
 /*Join If You... Section */
 #if-you {
     width: 90%;
@@ -146,6 +157,7 @@ hr {
 #if-you p {
     padding: 0 20px;
     color: white;
+    font-size: 22px;
 }
 
 /*Gallery Section */
