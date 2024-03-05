@@ -256,11 +256,13 @@ img {
     font-size: 10px;
     font-family: "Prompt", sans-serif;
     color:white;
+    margin-left: 20px;
 }
 
 .text h3 {
     color: red;
     font-size: 15px;
+    margin-left: 80px;
 }
 
 /*Footer Styles */
