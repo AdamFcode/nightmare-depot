@@ -127,9 +127,15 @@ main {
 }
 
 /* Intro section */
+#intro h1 {
+    margin-top: 150px;
+    font-size: 40px;
+}
+
 #intro h1, h4 {
    color: red;
    font-family: "Special Elite", serif;
+   text-align: center;
 }
 
 #intro p {
