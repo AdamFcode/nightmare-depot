@@ -230,6 +230,14 @@ input#any-role {
     Margin-top: 20px;
 }
 
+.join-button {
+    border: 5px solid red;
+    margin-top: 10px;
+    font-family: "Prompt", serif;
+    background-color: white;
+    padding: 10px 20px;
+}
+
 /* Testimonial Section */
 .container {
     display: grid;
