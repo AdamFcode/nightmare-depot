@@ -1,3 +1,24 @@
+# The Nightmare Depot
+
+The Nightmare Depot is a website designed to provide a resource for aspiring wrestlers to use in order to secure training and booking. Wrestling as an industry has historically been very difficult to enter. This has changed over the past few decades, though charlatans are notorious in the lower ends of the industy.
+
+The aim of The Nightmare Depot is to facilitate contact between prospects and established trainers/promotions. By doing so in a professional manner, The Nightmare Depot hopes to overcome several issues that affect young talent in the industry, such as financial abuse and "trainers" disappearing without notice.
+
+The long term goal of such an endeavour is to support and grow the wrestling industry in Ireland, which has suffered since its inception under illegitimate promoters, low public engagement and the opportunities available abroad enticing talent away. The Ngithmare Depot hopes to provide a pathway to these opportunites for young talent while also fostering a self-reliant system of mutually beneficial promotion across Munster and, once established, Ireland as a whole.
+
+![Am I Responsive Mockup](assets/readme-images/viewport-mockup.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
