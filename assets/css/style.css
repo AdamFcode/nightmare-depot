@@ -177,6 +177,13 @@ hr {
 }
 
 /*Gallery Section */
+.gallery-heading {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: 'Special Elite', serif;
+}
+
 div.gallery {
     display:inline-block;
     margin: 10px;
