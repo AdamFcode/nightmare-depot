@@ -9,6 +9,23 @@ The long term goal of such an endeavour is to support and grow the wrestling ind
 ![Am I Responsive Mockup](assets/readme-images/viewport-mockup.jpg)
 [Live Deployment](https://adamfcode.github.io/nightmare-depot/index.html)
 
+# Wireframes
+A decision was made early in the development process to use hand-drawn wireframes in hopes of remaining flexible with finalised designs. Throughout development it became clear that the use of a wireframing application such as balamiq would have been of great benefit to the website. It is with regret that such an application was not used and future developments will make use of such applications to ease the process.
+
+Provided below are photographs of the hand-drawn wireframes which differ in several places from the finalised product.
+
+#### Wireframe for Homepage:
+![Homepage Wireframe](assets/readme-images/wire-home.jpg)
+
+#### Wireframe for Gallery:
+![Gallery Wireframe](assets/readme-images/wire-gallery.jpg)
+
+#### Wireframe for Testimonials:
+![Testimonial Wireframe](assets/readme-images/wire-testimonial.jpg)
+
+#### Wireframe for Sign-up:
+![Sign-up Wireframe](assets/readme-images/wire-signup.jpg)
+
 # Features
 
 ## Navigation Bar
@@ -20,6 +37,72 @@ A navigation bar is featured on each page of the website, allowing for easy navi
 #### Mobile:
 ![Mobile Navigation Bar](assets/readme-images/navbar-mobile.jpg)
 
+## Hero Image
+An image of a luchadore deliviering a dropkick to an opponent was selected as the hero image in order to convey the physical nature of the product. Included is an inlay complete with company name and location.
+
+#### Picture of Hero Image
+
+![Hero Image](assets/readme-images/hero-splash.jpg)
+
+## Welcome Section
+A section introducing users to the key concept and intentions of the website is provided below the Hero Image.
+
+#### Picture of Welcome Section
+![Welcome Image](assets/readme-images/welcome-intro.jpg)
+
+## Join Us Section
+Below the welcome section is a list of benefits to joining The Nightmare Depot, delivered in the typical "brass tacks" approach prevalent throughout the independant wrestling scene.
+
+#### Picture of Join Us Section
+![Join Us Image](assets/readme-images/joinus-screengrab.jpg)
+
+## Gallery
+Accessible from the navigation bar is a gallery section. There are six photographs in this section, each focusing on a different aspect of The Nightmare Depot's operations. Accompanying each photograph is a brief paragraph further detailing the benefits of joining.
+
+#### Picture of Gallery Section
+![Gallery Image](assets/readme-images/gallery-grab.jpg)
+
+## Testimonials
+Accessible from the navigation bar, the testimonial section provides five testimonies from current students and former alumni. Each testimony is delivered in-character as is standard in the wrestling industry. These testimonies are accompanied with a picture of the relevant wrestler.
+
+#### Example from Testimonials Section
+![Testimonials Image](assets/readme-images/testimonial-grab.jpg)
+
+## Sign Up Section
+Also accessible from the navigation bar, the sign up section provides users with a form they can submit in order to contact The Nightmare Depot. Requested information includes a full name, contact email and wrestling "moniker". Radio buttons provide users with the option to select their desire role. 
+
+#### Picture of Sign Up Form
+![Sign Up Image](assets/readme-images/signup-grab.jpg)
+
+## Footer
+Each page has links included in the footer. Selecting these icons will open a new tab and redirect the user to the relevant website, either a ticket purchasing site or a form of social media. The targetted websites are: Facebook, Eventbrite, TikTok, Instagram and X(formerly twitter). 
+
+#### Picture of the Footer
+![Footer Image](assets/readme-images/footer-grab.jpg)
+
+## Colour Palette
+A very basic colour palette was decided upon following research into the independant wrestling scene. These promotions tend to be influenced by musical genres such as punk and metal. Three basic and bold colours which proliferate these scenes were selected in order to emulate and honour the aesthetic.
+
+#### Selected Colour Palette
+![Colour Palette](assets/readme-images/colour-pal.jpg)
+
+# Proposed Future Implementations
+Deadlines resulted in several features being earmarked for future implementations. Some examples will be provided below.
+
+## Location Page
+A page dedicated to providing users with an interactive map displaying the operational locations across Munster. This section would ideally provide drop down menus for each location, allowing users to easily access further information such as opening times and eircodes.
+
+## Tutorial Page
+A page featuring several entry-level videos of training across all disciplines. The intention of this section would be to give users an idea of what to expect should they join The Nightmare Depot, as well showcasing the facilities and skilled trainers on offer to students. Also provided would be private videos available to registered users currently enrolled with The Nightmare Depot.
+
+## Interactive Chat 
+A feature which would allow users to contact The Nightmare Depot directly on live chat. This would differ from the sign-up section in that it would not be possible to register interest through this chat. Instead, its purpose would be to provide information to the users regarding prices, requirements and expectations., which typically vary from student to student in the wrestling industry.
+
+## Video and Audio Integration
+An autoplay, muted video added to the homepage portraying in-ring action would help excite users upon arrival. Also of benefit would be a section allowing users to listen to snippets of wrestler's entrance music, along with links to relevant spotify pages.
+
+## Roster Gallery
+A section detailing all current members of The Nightmare Depot. The only people omitted would be students yet to perform live in front of a crowd. This would allow users to see the legitimate talent involved with the operation. Also provided would be links to the wrestlers personal social media in order to drive user engagement with contracted talent.
 
 
 
@@ -28,48 +111,3 @@ A navigation bar is featured on each page of the website, allowing for easy navi
 
 
 
-
-
-
-
-
-
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome,
-
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
