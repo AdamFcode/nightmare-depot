@@ -140,6 +140,38 @@ Through github I went into settings and then selected pages from the menu on the
 
 That deployment is available here: (https://adamfcode.github.io/nightmare-depot/index.html)
 
+# Credits
+The following resources were invaluable throughout this process:
+- https://codedamn.com/
+- https://futurecodersweb.com/
+- https://the-echoplex.net/flexyboxes/
+- https://stackoverflow.com/
+
+The following websites were used to generate imagery for the read.me:
+- https://coolors.co/?home
+- https://ui.dev/amiresponsive
+
+The following websites were used to secure copyright-free images and compressing them:
+- https://www.pexels.com/
+- https://pixabay.com/
+- https://tinypng.com/
+
+The coding for the navigation bar was sourced from The Love Running Project via codeinstitute.
+
+The following article was used to source the coding and syling of the gallery:
+-https://codedamn.com/news/frontend/how-to-put-image-and-text-side-by-side-in-html
+
+The favicons were created using:
+- favicon.io
+
+Fonts were sourced from Google Fonts.
+
+All icons were sourced from Fonts Awesome.
+
+
+
+
+
 
 
 
