@@ -6,7 +6,15 @@ The aim of The Nightmare Depot is to facilitate contact between prospects and es
 
 The long term goal of such an endeavour is to support and grow the wrestling industry in Ireland, which has suffered since its inception under illegitimate promoters, low public engagement and the opportunities available abroad enticing talent away. The Ngithmare Depot hopes to provide a pathway to these opportunites for young talent while also fostering a self-reliant system of mutually beneficial promotion across Munster and, once established, Ireland as a whole.
 
-![Am I Responsive Mockup](assets/readme-images/viewport-mockup.jpeg)
+![Am I Responsive Mockup](assets/readme-images/viewport-mockup.jpg)
+[Live Deployment](https://adamfcode.github.io/nightmare-depot/index.html)
+
+# Features
+
+## Navigation Bar
+A navigation bar is featured on each page of the website, allowing for easy navigation of the site whether on mobile or desktop. Mobile users are presented with an icon which opens the bar when necessary, whereas desktop users have the listings positioned permannatly at the top of the site.
+
+
 
 
 
