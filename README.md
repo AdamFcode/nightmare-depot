@@ -80,6 +80,30 @@ Each page has links included in the footer. Selecting these icons will open a ne
 #### Picture of the Footer
 ![Footer Image](assets/readme-images/footer-grab.jpg)
 
+## Colour Palette
+A very basic colour palette was decided upon following research into the independant wrestling scene. These promotions tend to be influenced by musical genres such as punk and metal. Three basic and bold colours which proliferate these scenes were selected in order to emulate and honour the aesthetic.
+
+#### Selected Colour Palette
+![Colour Palette](assets/readme-images/colour-pal.jpg)
+
+# Proposed Future Implementations
+Deadlines resulted in several features being earmarked for future implementations. Some examples will be provided below.
+
+## Location Page
+A page dedicated to providing users with an interactive map displaying the operational locations across Munster. This section would ideally provide drop down menus for each location, allowing users to easily access further information such as opening times and eircodes.
+
+## Tutorial Page
+A page featuring several entry-level videos of training across all disciplines. The intention of this section would be to give users an idea of what to expect should they join The Nightmare Depot, as well showcasing the facilities and skilled trainers on offer to students. Also provided would be private videos available to registered users currently enrolled with The Nightmare Depot.
+
+## Interactive Chat 
+A feature which would allow users to contact The Nightmare Depot directly on live chat. This would differ from the sign-up section in that it would not be possible to register interest through this chat. Instead, its purpose would be to provide information to the users regarding prices, requirements and expectations., which typically vary from student to student in the wrestling industry.
+
+## Video and Audio Integration
+An autoplay, muted video added to the homepage portraying in-ring action would help excite users upon arrival. Also of benefit would be a section allowing users to listen to snippets of wrestler's entrance music, along with links to relevant spotify pages.
+
+## Roster Gallery
+A section detailing all current members of The Nightmare Depot. The only people omitted would be students yet to perform live in front of a crowd. This would allow users to see the legitimate talent involved with the operation. Also provided would be links to the wrestlers personal social media in order to drive user engagement with contracted talent.
+
 
 
 
