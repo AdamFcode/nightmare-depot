@@ -104,6 +104,19 @@ An autoplay, muted video added to the homepage portraying in-ring action would h
 ## Roster Gallery
 A section detailing all current members of The Nightmare Depot. The only people omitted would be students yet to perform live in front of a crowd. This would allow users to see the legitimate talent involved with the operation. Also provided would be links to the wrestlers personal social media in order to drive user engagement with contracted talent.
 
+# Testing
+Testing of the website was performed on several devices across several screen sizes throughout development. Several users were invited to test the site on their own devices and report any issues. These issues were then targeted and fixed where possible.
+
+## Identified Issues
+The following issues were identified and will be adressed in a future build of the site.
+
+### Sign-up Styling issues
+The intention was to have the sign up form centred and more prominent on desktop, much as it is on mobile. The issue was identified late in devlopment and could not be fixed prior to deadline due to styling inconsistencies it caused for the form on mobile.
+
+### Hero Image on Mobile
+The Homepage splash image is cropped on mobile, showing the dropkick itself without the contextual imagery of the two wrestlers. Identified as an issue that muddled the intention of the site on first arrival, it unfortunately caused css issues that could not be addressed before deadline.
+
+### Gallery
 
 
 
