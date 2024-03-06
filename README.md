@@ -51,6 +51,37 @@ A section introducing users to the key concept and intentions of the website is 
 ![Welcome Image](assets/readme-images/welcome-intro.jpg)
 
 ## Join Us Section
+Below the welcome section is a list of benefits to joining The Nightmare Depot, delivered in the typical "brass tacks" approach prevalent throughout the independant wrestling scene.
+
+#### Picture of Join Us Section
+![Join Us Image](assets/readme-images/joinus-screengrab.jpg)
+
+## Gallery
+Accessible from the navigation bar is a gallery section. There are six photographs in this section, each focusing on a different aspect of The Nightmare Depot's operations. Accompanying each photograph is a brief paragraph further detailing the benefits of joining.
+
+#### Picture of Gallery Section
+![Gallery Image](assets/readme-images/gallery-grab.jpg)
+
+## Testimonials
+Accessible from the navigation bar, the testimonial section provides five testimonies from current students and former alumni. Each testimony is delivered in-character as is standard in the wrestling industry. These testimonies are accompanies with a picture of the relevant wrestler.
+
+#### Example from Testimonials Section
+![Testimonials Image](assets/readme-images/testimonial-grab.jpg)
+
+## Sign Up Section
+Also accessible from the navigation bar, the sign up section provides users with a form they can submit in order to contact The Nightmare Depot. Requested information includes a full name, contact email and wrestling "moniker". Radio buttons provide users with the option to select their desire role. 
+
+#### Picture of Sign Up Form
+![Sign Up Image](assets/readme-images/signup-grab.jpg)
+
+## Footer
+Each page has links included in the footer. Selecting these icons will open a new tab and redirect the user to the relevant website, either a ticket purchasing site or a form of social media. The targetted websites are: Facebook, Eventbrite, TikTok, Instagram and X(formerly twitter). 
+
+#### Picture of the Footer
+![Footer Image](assets/readme-images/footer-grab.jpg)
+
+
+
 
 
 
