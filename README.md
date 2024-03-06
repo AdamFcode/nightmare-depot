@@ -126,6 +126,20 @@ An issue was identified by some testers on their browsers where a white bar appe
 The HTML was tested on the official W3C Validator and showed no errors.
 The CSS was tested on the official Jigsaw Validator and showed no errors.
 
+### Lighthouse
+Each page on both mobile and desktop was subjected to a Lighthouse tests. All but one performed in the green across the board. The testing performed on the testimonial is sampled below. It is typical of the other pages.
+
+![Lighthouse](assets/readme-images/lighthouse.jpg)
+
+The mobile testing on the gallery section returned an orange rating in performance. Lighthouse identified a large layout shift as the main cotributor to the problem, along with some other minor issues. Below is the test results. 
+
+![Lighthouse for Gallery on mobile](assets/readme-images/lighthouse-galmob.jpg)
+
+# Deployment
+Through github I went into settings and then selected pages from the menu on the left. After selecting source I chose to deploy from a branch. Under branch I set it to main-root and saved. This deployed the page and provided a link which was used throughout the development process to live test the website.
+
+That deployment is available here: (https://adamfcode.github.io/nightmare-depot/index.html)
+
 
 
 
