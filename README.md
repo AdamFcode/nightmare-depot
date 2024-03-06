@@ -37,5 +37,22 @@ A navigation bar is featured on each page of the website, allowing for easy navi
 #### Mobile:
 ![Mobile Navigation Bar](assets/readme-images/navbar-mobile.jpg)
 
+## Hero Image
+An image of a luchadore deliviering a dropkick to an opponent was selected as the hero image in order to convey the physical nature of the product. Included is an inlay complete with company name and location.
+
+#### Picture of Hero Image
+
+![Hero Image](assets/readme-images/hero-splash.jpg)
+
+## Welcome Section
+A section introducing users to the key concept and intentions of the website is provided below the Hero Image.
+
+#### Picture of Welcome Section
+![Welcome Image](assets/readme-images/welcome-intro.jpg)
+
+## Join Us Section
+
+
+
 
 
