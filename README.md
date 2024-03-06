@@ -12,7 +12,14 @@ The long term goal of such an endeavour is to support and grow the wrestling ind
 # Features
 
 ## Navigation Bar
-A navigation bar is featured on each page of the website, allowing for easy navigation of the site whether on mobile or desktop. Mobile users are presented with an icon which opens the bar when necessary, whereas desktop users have the listings positioned permannatly at the top of the site.
+A navigation bar is featured on each page of the website, allowing for easy navigation of the site whether on mobile or desktop. Mobile users are presented with an icon which opens the bar when necessary, whereas desktop users have the listings positioned permanantly at the top of the site.
+
+#### Desktop:
+![Desktop Navigation bar](assets/readme-images/navbar-desktop.jpg)
+
+#### Mobile:
+![Mobile Navigation Bar](assets/readme-images/navbar-mobile.jpg)
+
 
 
 
