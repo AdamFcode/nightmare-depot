@@ -111,12 +111,22 @@ Testing of the website was performed on several devices across several screen si
 The following issues were identified and will be adressed in a future build of the site.
 
 ### Sign-up Styling issues
-The intention was to have the sign up form centred and more prominent on desktop, much as it is on mobile. The issue was identified late in devlopment and could not be fixed prior to deadline due to styling inconsistencies it caused for the form on mobile.
+The intention was to have the sign up form centred and more prominent on desktop, much as it is on mobile. The issue was identified late in devlopment and could not be fixed prior to deadline.
 
 ### Hero Image on Mobile
 The Homepage splash image is cropped on mobile, showing the dropkick itself without the contextual imagery of the two wrestlers. Identified as an issue that muddled the intention of the site on first arrival, it unfortunately caused css issues that could not be addressed before deadline.
 
 ### Gallery
+An issue was identified where the gallery appeared in one column on certain phone models. Other models of similar size displayed two columns. The issue could not be fixed prior to deadline.
+
+### White Bar Issue
+An issue was identified by some testers on their browsers where a white bar appears at the end of the page. Unfortunately the source of the issue could not be identified.
+
+## Validator Testing
+The HTML was tested on the official W3C Validator and showed no errors.
+The CSS was tested on the official Jigsaw Validator and showed no errors.
+
+
 
 
 
