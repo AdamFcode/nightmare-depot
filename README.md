@@ -13,9 +13,17 @@ The long term goal of such an endeavour is to support and grow the wrestling ind
 A decision was made early in the development process to use hand-drawn wireframes in hopes of remaining flexible with finalised designs. Throughout development it became clear that the use of a wireframing application such as balamiq would have been of great benefit to the website. It is with regret that such an application was not used and future developments will make use of such applications to ease the process.
 
 Provided below are photographs of the hand-drawn wireframes which differ in several places from the finalised product.
+
+#### Wireframe for Homepage:
 ![Homepage Wireframe](assets/readme-images/wire-home.jpg)
+
+#### Wireframe for Gallery:
 ![Gallery Wireframe](assets/readme-images/wire-gallery.jpg)
+
+#### Wireframe for Testimonials:
 ![Testimonial Wireframe](assets/readme-images/wire-testimonial.jpg)
+
+#### Wireframe for Sign-up:
 ![Sign-up Wireframe](assets/readme-images/wire-signup.jpg)
 
 # Features
