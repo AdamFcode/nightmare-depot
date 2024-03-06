@@ -63,7 +63,7 @@ Accessible from the navigation bar is a gallery section. There are six photograp
 ![Gallery Image](assets/readme-images/gallery-grab.jpg)
 
 ## Testimonials
-Accessible from the navigation bar, the testimonial section provides five testimonies from current students and former alumni. Each testimony is delivered in-character as is standard in the wrestling industry. These testimonies are accompanies with a picture of the relevant wrestler.
+Accessible from the navigation bar, the testimonial section provides five testimonies from current students and former alumni. Each testimony is delivered in-character as is standard in the wrestling industry. These testimonies are accompanied with a picture of the relevant wrestler.
 
 #### Example from Testimonials Section
 ![Testimonials Image](assets/readme-images/testimonial-grab.jpg)
