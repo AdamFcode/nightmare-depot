@@ -157,7 +157,7 @@ The following websites were used to secure copyright-free images and to compress
 - https://pixabay.com/
 - https://tinypng.com/
 
-The coding for the navigation bar was sourced from The Love Running Project via codeinstitute.
+The coding for the navigation bar and the signup form was sourced from The Love Running Project via codeinstitute.
 
 The following article was used to source the coding and syling of the gallery:
 - https://codedamn.com/news/frontend/how-to-put-image-and-text-side-by-side-in-html
